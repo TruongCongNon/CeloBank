@@ -1,0 +1,23 @@
+/* Small phones (320px and above) */
+@media (min-width: 320px) {
+}
+
+/* Larger mobile devices (576px and above) */
+@media (min-width: 576px) {
+}
+
+/* Tablets (768px and above) */
+@media (min-width: 768px) {
+}
+
+/* Small laptops (992px and above) */
+@media (min-width: 992px) {
+}
+
+/* Desktops (1200px and above) */
+@media (min-width: 1200px) {
+}
+
+/* Extra large screens (1400px and above) */
+@media (min-width: 1400px) {
+}
